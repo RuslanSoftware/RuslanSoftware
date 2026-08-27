@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Mobile App Development (Flutter, Dart, Firebase)</b>
-  - Appointment & Check‑In App — Cosmetology academy mobile app for scheduling and check‑ins
+  - [Appointment & Check‑In App](https://github.com/RuslanSoftware/CSA-App) — Cosmetology academy mobile app for scheduling and check‑ins
 - <b>Web Development & Databases (SQL, PHP, HTML/CSS)</b>
   - Library Management System — Web app with role‑based access for readers and admins
 
